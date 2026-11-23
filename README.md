@@ -1,1 +1,1 @@
-# konf_uebung3 - Version B
+# konf_uebung3 - Version A+B
